@@ -1,5 +1,5 @@
 {
-	"name": "infuse/libs",
+	"name": "andriy-invoiced/libs",
 	"description": "Solid libraries for rapid PHP development",
 	"type": "library",
 	"keywords": ["infuse","libs"],
